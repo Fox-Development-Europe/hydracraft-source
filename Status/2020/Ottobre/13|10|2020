@@ -1,0 +1,54 @@
+Stato del server HydraCraft Source il: 13/10/2020
+Status page creata e pubblicata alle ora 16:34
+
+
+==================================================================================================
+-----------------------------------------------------------------
+HydraCraft - Source | Sistema Automatico per la stampa del File
+-----------------------------------------------------------------
+
+Si ricorda a tutti che i dati della performance nella zona File Uploading e File Storage è dovuta
+alla manutenzione del sistema per migliorare le prestazioni e aggiungere funzionalità e sicurezza
+al sistema per proteggere al meglio i tuoi file
+Ricordiamo che durante tutta la manutenzione e dopo NESSUN membro dello staff avrà accesso a tutti
+i tuoi file caricati da te.
+Inoltre ricordiamo che i file NON saranno danneggiati dalla Manutenzione
+===================================================================================================
+
+
+Homepage:
+Prestazioni: 9/10   [Performanti]
+Errori richieste: 1   [Performante]
+DDoS Attack: 0   [Sicuro]
+Bug/Glitch: 17 [Medio]
+
+Login, Register e Process
+Prestazioni: 10/10  [Perfetti]
+Errori richieste: 3  [Abbastanza Performante]
+DDoS Attack: 0   [Sicuro]
+Bug-Glitch: 1(Fixato)   [Performante]
+Bot Attack: 1(Risolto)   [Sicuro]
+
+
+Dashboard Personale
+Prestazioni: 7.5/10  [Mediamente Performante]
+Errori richieste: --- 
+DDoS Attack: 1(Risolto)  [Sicuro]
+Bug-Glitch: 32(Parzialmente Risolti)   [Mediamente Performante]
+Bot Attack: 0   [Sicuro]
+
+
+Database MySQL (Dati Utenti)
+Utenti Registrati: 50 [Regolare]
+Accessi esterni: 0   [Sicuro]
+Accessi Interni: 0   [Sicuro]
+DDoS: 0              [Sicuro]
+
+
+Upload e Storage File
+> Percorso: users/{username} (/{filename})
+Prestazioni: 5.2/10  [Poco Performanti - In Manutenzione]
+Errori Richieste: 152   [Poco Performanti - In Manutenzione]
+Peso file Uploadati il 13/10/2020: 259MB
+DDoS Attack: 1(Risolto) [Sicuro]
+Big/Glitch: 321(Parzialmente Fixati)  [Poco Performante]
